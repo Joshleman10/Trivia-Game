@@ -35,9 +35,7 @@ button:hover {
 button:active {
     transform: translateY(4px);
   }
-#answers{
-    visibility: hidden;
-}
+
 #timer{
     font-size:25px;
     text-align: center;
